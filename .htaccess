@@ -2,4 +2,4 @@
     RewriteEngine on
     RewriteRule ^GG-Easy-Noobs-gif.gif$ https://3x.f5.si/GG.gif$1 [R=301,L]
 </IfModule>
-ErrorDocument 404 /index.html
+ErrorDocument 404 /404.html
