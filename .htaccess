@@ -1,4 +1,4 @@
 RewriteEngine on
-RewriteRule https://sub-speed.github.io/GG-Easy-Noobs-gif.gif https://3x.f5.si/GG.gif$1 [R=301,L]
+RewriteRule https://sub-speed.github.io/GG-Easy-Noobs-gif.gif https://3x.f5.si/GG.gif [R=301,L]
 
 ErrorDocument 404 /404.html
