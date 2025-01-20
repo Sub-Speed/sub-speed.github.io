@@ -1,1 +1,4 @@
-
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteRule ^GG-Easy-Noobs-gif.gif$ https://3x.f5.si/GG.gif$1 [R=301,L]
+</IfModule>
