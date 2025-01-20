@@ -1,3 +1,1 @@
-Redirect 301 /GG-Easy-Noobs-gif.gif https://3x.f5.si/GG.gif [R=301,L]
-
 ErrorDocument 404 /404.html
